@@ -3,3 +3,4 @@ github1
 这是master分支上的内容
 这是megerbranch分支上的内容
 这是megerbranch
+version 1
